@@ -45,5 +45,5 @@ The project is created with:
   <div align= "center"><img src="images/2nd.png" />
     <hr>
     <div align= "center"><img src="images/3rd.png" />
-  <h4>personalized diet plans with DigiDiet: A content-based recommendation web application powered by Scikit-Learn, FastAPI, and Streamlit..</h4>
+       <div align= "center"><img src="images/4th.png" />
 </div>
