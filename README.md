@@ -40,4 +40,10 @@ The project is created with:
 
 ![](https://img.icons8.com/color/48/null/python--v1.png)![](https://img.icons8.com/color/48/null/numpy.png)![](Assets/streamlit-icon-48x48.png)![](Assets/fastapi.ico)![](Assets/scikit-learn.ico) ![](https://img.icons8.com/color/48/null/pandas.png)
 
-
+<h1 align="center">Some Screenshots</h1>
+<div align= "center"><img src="images/1st.png" />
+  <div align= "center"><img src="images/2nd.png" />
+    <hr>
+    <div align= "center"><img src="images/3rd.png" />
+  <h4>personalized diet plans with DigiDiet: A content-based recommendation web application powered by Scikit-Learn, FastAPI, and Streamlit..</h4>
+</div>
