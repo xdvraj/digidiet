@@ -36,6 +36,7 @@ The project is created with:
 * streamlit-echarts 1.24.1
 * Numpy: 1.21.5
 * beautifulsoup4 4.11.1
+* Vega-Altair < 5
 
 ![](https://img.icons8.com/color/48/null/python--v1.png)![](https://img.icons8.com/color/48/null/numpy.png)![](Assets/streamlit-icon-48x48.png)![](Assets/fastapi.ico)![](Assets/scikit-learn.ico) ![](https://img.icons8.com/color/48/null/pandas.png)
 
